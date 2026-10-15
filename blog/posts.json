@@ -1,11 +1,248 @@
 [
   {
+    "slug": "sabarmati-ashram-museum-visit-guide",
+    "title": "Sabarmati Ashram: A Thoughtful Guide to the Museum and Its Stories",
+    "category": "History & culture",
+    "asset": "sabarmati-ashram",
+    "description": "Explore Sabarmati Ashram through its museum, official digital guide and historical spaces, with practical advice for a thoughtful Ahmedabad visit.",
+    "sources": [
+      [
+        "Sabarmati Ashram Preservation and Memorial Trust: Gandhi Memorial Museum",
+        "https://audioguide.gandhiashramsabarmati.org/AshramDigitalGuide/en_US/gandhi-memorial-museum/"
+      ],
+      [
+        "Sabarmati Ashram: Tour Sites",
+        "https://gandhiashramsabarmati.org/en/2-uncategorised/60-tour-sites.html"
+      ]
+    ],
+    "sections": [
+      [
+        "Begin with the museum, rather than a checklist",
+        "A visit to Sabarmati Ashram can become more meaningful when you choose a question to explore: how Gandhi lived, how ideas were communicated or how a historical place is interpreted for visitors today. The Ashram’s official digital guide identifies the Gandhi Memorial Museum as a building designed by Charles Correa and inaugurated on 10 May 1963. That gives you two useful lenses for the visit: the history presented inside and the architecture used to present it."
+      ],
+      [
+        "Use the official guide to choose your focus",
+        "The Trust’s tour-site listing includes Hriday Kunj, Magan Niwas, Upasana Mandir and the museum, among other places. Use that listing to understand the names before you arrive. Select a few stops you particularly want to understand, rather than treating every listed space as a required photo opportunity. Access can change, so use the current visitor instructions to decide what can actually be included on your day."
+      ],
+      [
+        "A practical way to read an exhibition",
+        "Begin a gallery with its introductory panel. Look for the date, the people involved and whether an item is an original, a reproduction or an interpretation. Choose one object or document and spend enough time to understand its context. If you are visiting with children, ask them what they notice before providing an explanation. A focused conversation about one exhibit can be easier to remember than a hurried reading of every panel."
+      ],
+      [
+        "Prepare for the visit you intend to make",
+        "Check the official visitor information before travelling, including any temporary works, entry arrangements and rules for bags, photography or recording. Carry water and choose footwear suitable for walking. If someone in your group needs step-free access, confirm the route for the specific spaces you want to see. Do not assume that a general description of the site guarantees access to every building or gallery."
+      ],
+      [
+        "Connect local storytelling with careful attribution",
+        "When turning the visit into a post, identify where historical information came from. Keep your own reflections separate from quotations, and do not place a modern opinion in Gandhi’s voice. A useful story might explain one exhibit, its context and the question it raised for you. If you discuss local craft or products afterward, assess the actual maker and product on their own merits rather than claiming the Ashram endorses a business."
+      ],
+      [
+        "Before you leave",
+        "Note the title of an exhibit you want to research further and save the official digital-guide link. The most useful takeaway need not be a large photo collection: it can be a clearer understanding of one document, one architectural choice or one historical event. This is a planning guide based on official material, not a first-person account of a recent visit."
+      ]
+    ],
+    "date": "2026-10-15",
+    "author": "Beyond Soch Editorial",
+    "url": "https://beyond-soch.github.io/home/blog/sabarmati-ashram-museum-visit-guide.html",
+    "image": "assets/sabarmati-ashram.svg",
+    "alt": "Illustration of Sabarmati Ashram",
+    "image_type": "landmark illustration"
+  },
+  {
+    "slug": "sidi-saiyyed-ni-jali-ahmedabad-guide",
+    "title": "Sidi Saiyyed Mosque: How to Appreciate Ahmedabad’s Famous Jali",
+    "category": "Architecture",
+    "asset": "sidi-saiyyed-mosque",
+    "description": "Understand the tree-pattern stone jali at Sidi Saiyyed Mosque, plan a respectful visit and photograph architectural detail without disrupting worship.",
+    "sources": [
+      [
+        "Gujarat Tourism: Siddi Sayed Mosque",
+        "https://gujarattourism.com/central-zone/ahmedabad/siddi-sayed-mosque.html"
+      ]
+    ],
+    "sections": [
+      [
+        "Look beyond a familiar city symbol",
+        "Sidi Saiyyed Mosque is often associated with its finely worked stone screens. Gujarat Tourism describes the interwoven tree branches in its jali windows and notes that the mosque remains a place of prayer. Those two facts belong together. The carving deserves attention as craftsmanship, while the building’s daily religious use should shape how visitors behave. A short, attentive stop can be more rewarding than a rushed search for the most recognisable angle."
+      ],
+      [
+        "What is a jali?",
+        "A jali is a perforated screen: its visual effect depends on the relationship between the solid material and the openings cut through it. At this mosque, start by identifying the main branching form, then follow smaller branches and the spaces between them. Notice how the design reads differently from a distance and up close. You do not need to touch the surface or enter a restricted area to study the pattern."
+      ],
+      [
+        "Plan a visit around the place of worship",
+        "Confirm visitor arrangements locally and follow directions at the entrance. Wear modest clothing, observe footwear instructions and ask before recording inside. Prayer and the comfort of worshippers take priority over a visitor’s filming plan. Avoid assuming that a quiet-looking area is available for a posed shoot. If access is limited, accept the restriction and look for a permitted way to appreciate the exterior."
+      ],
+      [
+        "A simple photography approach",
+        "If photography is permitted, begin with a contextual image that shows the screen as part of the building. Then take a detail photograph without blocking circulation. Compare exposures rather than immediately applying a strong filter: very bright openings can make the stone pattern difficult to read. Keep your equipment compact, avoid climbing or leaning on architectural features and ask permission before including people prominently."
+      ],
+      [
+        "Understand the name before mapping your route",
+        "The landmark appears under several spellings, including Sidi Saiyyed, Sidi Sayed and Siddi Sayed. Match the map pin to the actual landmark rather than relying only on spelling. If you combine it with other Old City sites, check the route and allow for street crossings and pauses. Proximity on a map does not mean every connection is equally comfortable for every visitor."
+      ],
+      [
+        "Credit craftsmanship without inventing a story",
+        "An architectural reel can describe what is visible and cite a reliable source for historical information. Avoid claiming to know an individual carver’s intention without evidence. For Beyond Soch, this is also a way to discuss why skilled local work deserves attention: let the detail lead the story, and make room for what remains unknown. This guide does not claim a recent on-site inspection or confirm present-day opening hours."
+      ]
+    ],
+    "date": "2026-10-15",
+    "author": "Beyond Soch Editorial",
+    "url": "https://beyond-soch.github.io/home/blog/sidi-saiyyed-ni-jali-ahmedabad-guide.html",
+    "image": "assets/sidi-saiyyed-mosque.svg",
+    "alt": "Illustration of Sidi Saiyyed Mosque",
+    "image_type": "landmark illustration"
+  },
+  {
+    "slug": "kankaria-lake-family-outing-planning",
+    "title": "Kankaria Lake With Family: Plan the Outing Before the Attractions",
+    "category": "Family outings",
+    "asset": "kankaria-lake",
+    "description": "Plan a manageable family outing at Kankaria Lake with activity choices, meeting points, a flexible budget and checks for current attraction availability.",
+    "sources": [
+      [
+        "Ahmedabad District Administration: Kankaria Lake",
+        "https://ahmedabad.nic.in/tourist-place/khandagir-udayagiri/"
+      ],
+      [
+        "Ahmedabad Municipal Corporation Heritage portal: Kankaria",
+        "https://heritage.ahmedabadcity.gov.in/details/137/heritage_site/all_heritages/en"
+      ]
+    ],
+    "sections": [
+      [
+        "Choose the kind of day your family wants",
+        "Kankaria works better as a family outing when you agree on a small number of priorities before arriving. Do you want an easy lakeside walk, activities for children or a visit centred on a particular attraction? The Ahmedabad District Administration’s overview describes the lake, Naginawadi and surrounding recreational facilities. It is useful background, but its dated attraction descriptions should not be treated as a live operating schedule."
+      ],
+      [
+        "Make an activity shortlist",
+        "Ask each person to name one thing they would like to do, then choose the options that fit the group’s energy and time. Keep one activity as optional. A family with a young child may prefer a shorter outing with breaks; a mixed-age group may need to split briefly and meet again. Avoid buying into a packed itinerary simply because an attraction list is long."
+      ],
+      [
+        "Check entry and attraction charges separately",
+        "Before setting your budget, confirm whether lakefront access and the individual activities you want require separate payments. Check current availability, age or height restrictions and payment methods directly with the relevant operator. This article does not provide an unverified ticket total. A useful budget separates travel, entry, optional attractions, food and a small contingency, so you can decide what to skip without disappointment."
+      ],
+      [
+        "Agree on a meeting and departure plan",
+        "Choose a clearly identifiable meeting point rather than a vague location such as “near the lake”. Share a map pin with the adults in your group and agree what to do if someone becomes separated. For children, identify the adult they should stay with and explain how to seek help from site staff. Set an approximate departure window, while leaving room to finish earlier if heat, queues or fatigue change the plan."
+      ],
+      [
+        "Pack for comfort, not for every possibility",
+        "Carry water, any routine essentials your group needs and a charged phone. Check the weather and current rules for items you intend to bring. If someone uses a wheelchair or stroller, ask about the specific entrance and attraction routes before travelling. An accessible approach to the lakefront does not automatically establish access to every activity. Choose shaded breaks and a route suited to the people with you."
+      ],
+      [
+        "Keep the visit enjoyable for other families",
+        "Leave paths clear when taking photographs, use designated bins and follow directions around the water and activity areas. Ask before photographing other children. For a family blog or reel, practical details such as the entrance used and the date of the visit are more helpful than unsupported claims about every attraction. Check official information again close to your visit; this is an editorial planning guide, not a current attraction-by-attraction review."
+      ]
+    ],
+    "date": "2026-10-15",
+    "author": "Beyond Soch Editorial",
+    "url": "https://beyond-soch.github.io/home/blog/kankaria-lake-family-outing-planning.html",
+    "image": "assets/kankaria-lake.svg",
+    "alt": "Illustration of Kankaria Lake With Family",
+    "image_type": "landmark illustration"
+  },
+  {
+    "slug": "hutheesing-jain-temple-marble-craft-guide",
+    "title": "Hutheesing Jain Temple: Marble Craft, Context and Visitor Etiquette",
+    "category": "Craft & heritage",
+    "asset": "hutheesing-jain-temple",
+    "description": "Explore the marble craftsmanship of Hutheesing Jain Temple, understand its religious setting and plan a respectful architecture-focused visit.",
+    "sources": [
+      [
+        "Gujarat Tourism: Hutheesing Jain Temple",
+        "https://gujarattourism.com/central-zone/ahmedabad/hutheesing-jain-temple.html"
+      ],
+      [
+        "Ahmedabad District Administration: Hathee Singh Temple",
+        "https://ahmedabad.nic.in/tourist-place/hathee-singh-temple/"
+      ]
+    ],
+    "sections": [
+      [
+        "Begin with the purpose of the temple",
+        "Hutheesing Jain Temple is a religious place as well as an architectural destination. Gujarat Tourism describes its white-marble construction, dates it to 1848 and identifies its dedication to Shri Dharmanatha, the fifteenth Jain Tirthankara. These details provide context for looking at the building without reducing it to decorative stonework. Visitors should approach the space as guests, with worship and local instructions taking priority."
+      ],
+      [
+        "Follow the work from the whole to the detail",
+        "Begin by looking at how the courtyard, covered spaces and shrine relate to one another. Then choose a single column, bracket or carved surface to study. Look for repetition, depth and the way light separates one layer from another. Moving from a broad view to one detail helps you appreciate the work without needing to label every architectural feature or make unsupported claims about symbolism."
+      ],
+      [
+        "Remember the people behind the material",
+        "Gujarat Tourism attributes the temple’s architectural work to Premchand Salat and discusses the stoneworking traditions of the Sonpura and Salat communities. That is a useful reminder that heritage involves knowledge and labour, not simply expensive materials. If a modern craftsperson explains a related technique, credit their own expertise while avoiding the assumption that their process is identical to the historical one."
+      ],
+      [
+        "Ask about visitor rules before recording",
+        "Confirm current access, permitted clothing, footwear arrangements and photography restrictions before planning a shoot. Rules may differ between the entrance, courtyard and sacred interior. Do not assume that a camera is permitted simply because someone else is using a phone. Keep voices low, follow staff directions and avoid standing in an active worship route for a photograph. If a space is restricted, appreciate it from the permitted area."
+      ],
+      [
+        "Make a focused architecture visit",
+        "Choose a few questions to guide your attention. How do carved surfaces change between sun and shade? Where does a repeated form become a focal point? How do open and enclosed spaces affect the experience? Take notes or make a small sketch where allowed. These observations can support a thoughtful article without requiring a large amount of video or a claim to specialist historical knowledge."
+      ],
+      [
+        "Carry the lesson into local buying",
+        "An interest in temple craftsmanship can lead to more informed conversations with today’s makers. Ask about materials, tools, time and care rather than assuming all handmade work follows the same tradition. Beyond Soch’s Vocal for Local approach starts with understanding a person’s work accurately. Do not imply that the temple endorses a product or business. Verify present-day visitor arrangements directly; this article is a researched introduction rather than a first-hand review."
+      ]
+    ],
+    "date": "2026-10-15",
+    "author": "Beyond Soch Editorial",
+    "url": "https://beyond-soch.github.io/home/blog/hutheesing-jain-temple-marble-craft-guide.html",
+    "image": "assets/hutheesing-jain-temple.svg",
+    "alt": "Illustration of Hutheesing Jain Temple",
+    "image_type": "landmark illustration"
+  },
+  {
+    "slug": "manek-chowk-food-walk-first-time-guide",
+    "title": "Manek Chowk Food Walk: A First-Time Visitor’s Planning Guide",
+    "category": "Food & local life",
+    "asset": "manek-chowk",
+    "description": "Plan a Manek Chowk food outing with a realistic tasting budget, dietary questions, meeting points and respectful ways to feature local vendors.",
+    "sources": [
+      [
+        "Gujarat Tourism: Manek Chowk",
+        "https://gujarattourism.com/central-zone/ahmedabad/manek-chowk-night-market--ahmedabad.html"
+      ]
+    ],
+    "sections": [
+      [
+        "Understand the market’s changing rhythm",
+        "Manek Chowk is more than a collection of food stalls. Gujarat Tourism describes a square used for vegetable trading in the morning, bullion trading during the day and street food at night. That changing use is part of the place’s identity. If food is the purpose of your outing, confirm the present-day food-service arrangements rather than expecting the same experience at any hour."
+      ],
+      [
+        "Plan a tasting route, not a long order list",
+        "Choose a small number of dishes you are curious about and leave room to change your mind after seeing the menus. Groups can share suitable items, which makes it easier to compare flavours without ordering more than they want. Ask about portion sizes before paying. Keep a simple note of what you tried and the stall name, so a later recommendation is tied to a real purchase rather than a remembered location."
+      ],
+      [
+        "Ask clear questions about food",
+        "If you have dietary requirements, ask the vendor about ingredients and preparation before ordering. Clarify what matters to you instead of relying on a dish name or an assumption about the city’s food culture. For an allergy, discuss cross-contact as well as the ingredient list; a busy stall may not be able to meet a particular requirement. Decide based on the information available and your own needs."
+      ],
+      [
+        "Set a flexible, transparent budget",
+        "Separate transport, food and any other planned purchases. Check the menu and the total directly at each stall, including portion choices or extras. This guide does not quote prices or rank vendors because it is not based on a recent tasting visit. A practical budget includes room for water and the journey home, with optional dishes treated as optional rather than a target you must finish."
+      ],
+      [
+        "Choose a meeting point and return plan",
+        "Share a specific map pin with your group and agree where to meet if someone steps away. Keep belongings manageable and avoid stopping in a circulation route to inspect a menu or record a video. Check your return transport before the outing becomes late. The best plan is one your group can follow comfortably, not one built only around a dramatic night-market reel."
+      ],
+      [
+        "Feature vendors fairly",
+        "Ask permission before filming preparation closely or recording a conversation. A short purchase does not establish a business history, so verify names, claims and contact details if you want to feature the stall. Disclose a gifted meal or paid collaboration. In your caption, distinguish a personal favourite from a researched fact. Local food stories are stronger when they show the people behind the counter accurately and respect the customers sharing the space."
+      ]
+    ],
+    "date": "2026-10-15",
+    "author": "Beyond Soch Editorial",
+    "url": "https://beyond-soch.github.io/home/blog/manek-chowk-food-walk-first-time-guide.html",
+    "image": "assets/manek-chowk.svg",
+    "alt": "Illustration of Manek Chowk Food Walk",
+    "image_type": "landmark illustration"
+  },
+  {
     "slug": "atal-bridge-ahmedabad-guide",
     "title": "Atal Bridge Ahmedabad: Design, River Views and Visit Planning",
     "category": "Ahmedabad",
     "image": "assets/atal-bridge.svg",
     "alt": "Illustration of Atal Bridge in Ahmedabad",
-    "description": "Discover Atal Bridge\u2019s kite-inspired design, plan a riverfront outing and learn what to check before visiting this Ahmedabad landmark.",
+    "description": "Discover Atal Bridge’s kite-inspired design, plan a riverfront outing and learn what to check before visiting this Ahmedabad landmark.",
     "source": "https://www.sabarmatiriverfront.com/atal-bridge.html",
     "source_name": "Sabarmati Riverfront Development Corporation",
     "sections": [
@@ -19,15 +256,15 @@
       ],
       [
         "Build a manageable outing",
-        "Treat a bridge visit and a riverfront walk as two parts of a simple outing. Choose your arrival point and return journey before leaving. If you are meeting friends, agree on a specific entrance or nearby landmark rather than saying only \u201cthe riverfront\u201d. A short, well-planned route is often more enjoyable than a long list of stops. Leave some time to sit, observe the skyline and experience the space without filming."
+        "Treat a bridge visit and a riverfront walk as two parts of a simple outing. Choose your arrival point and return journey before leaving. If you are meeting friends, agree on a specific entrance or nearby landmark rather than saying only “the riverfront”. A short, well-planned route is often more enjoyable than a long list of stops. Leave some time to sit, observe the skyline and experience the space without filming."
       ],
       [
         "Check before leaving",
-        "Confirm current opening arrangements, ticket requirements and any restrictions through the official riverfront channels. This guide deliberately does not publish an unverified ticket price. Weather, crowds and temporary access changes can affect your plans. Take drinking water and comfortable walking shoes, and check the day\u2019s forecast. For visitors with mobility requirements, confirm the exact access route rather than assuming every nearby approach is equally convenient."
+        "Confirm current opening arrangements, ticket requirements and any restrictions through the official riverfront channels. This guide deliberately does not publish an unverified ticket price. Weather, crowds and temporary access changes can affect your plans. Take drinking water and comfortable walking shoes, and check the day’s forecast. For visitors with mobility requirements, confirm the exact access route rather than assuming every nearby approach is equally convenient."
       ],
       [
         "Make your content useful",
-        "If you share the visit online, explain what your audience is seeing and record the date of your observations. A clearly named location, an accurate description and an honest practical tip are more useful than an unsupported \u201cbest place\u201d claim. Ask before featuring identifiable people closely. Pair your visit with a local purchase or a conversation with a willing business owner, while keeping the bridge experience and any brand promotion clearly distinguishable."
+        "If you share the visit online, explain what your audience is seeing and record the date of your observations. A clearly named location, an accurate description and an honest practical tip are more useful than an unsupported “best place” claim. Ask before featuring identifiable people closely. Pair your visit with a local purchase or a conversation with a willing business owner, while keeping the bridge experience and any brand promotion clearly distinguishable."
       ]
     ],
     "date": "2026-10-14",
@@ -87,7 +324,7 @@
       ],
       [
         "Look at the courtyard and structural rhythm",
-        "Gujarat Tourism highlights the large courtyard and the prayer hall\u2019s columns and domes. Begin with the relationship between open and covered space, then notice the repetition of supports and the way details appear as you move. You do not need technical architectural vocabulary to appreciate these patterns. If you want a deeper historical interpretation, consider asking a qualified local guide rather than relying on an unsourced social-media explanation."
+        "Gujarat Tourism highlights the large courtyard and the prayer hall’s columns and domes. Begin with the relationship between open and covered space, then notice the repetition of supports and the way details appear as you move. You do not need technical architectural vocabulary to appreciate these patterns. If you want a deeper historical interpretation, consider asking a qualified local guide rather than relying on an unsourced social-media explanation."
       ],
       [
         "Plan respectful access",
@@ -95,11 +332,11 @@
       ],
       [
         "Connect it with an Old City walk",
-        "The mosque can form part of a wider exploration of Ahmedabad\u2019s historic centre. Plan a limited set of stops and allow time for navigating streets, listening to a guide and taking breaks. Keep your route realistic for the people travelling with you. A map can show proximity, but it cannot tell you how comfortable a route will be for your group on a particular day. Check locally when you arrive."
+        "The mosque can form part of a wider exploration of Ahmedabad’s historic centre. Plan a limited set of stops and allow time for navigating streets, listening to a guide and taking breaks. Keep your route realistic for the people travelling with you. A map can show proximity, but it cannot tell you how comfortable a route will be for your group on a particular day. Check locally when you arrive."
       ],
       [
         "Tell the story carefully",
-        "For a blog or reel, separate sourced history from personal observations. Avoid presenting an architectural detail as proof of a sweeping religious or historical claim. Name your source when discussing construction dates, and acknowledge uncertainty when a story is a local tradition rather than a documented fact. Beyond Soch\u2019s approach to local storytelling is to make the people and context visible, while leaving visitors with useful information and respect for the setting."
+        "For a blog or reel, separate sourced history from personal observations. Avoid presenting an architectural detail as proof of a sweeping religious or historical claim. Name your source when discussing construction dates, and acknowledge uncertainty when a story is a local tradition rather than a documented fact. Beyond Soch’s approach to local storytelling is to make the people and context visible, while leaving visitors with useful information and respect for the setting."
       ]
     ],
     "date": "2026-10-14",
@@ -109,17 +346,17 @@
   },
   {
     "slug": "bhadra-fort-teen-darwaza-guide",
-    "title": "Bhadra Fort and Teen Darwaza: Exploring Ahmedabad\u2019s Old City",
+    "title": "Bhadra Fort and Teen Darwaza: Exploring Ahmedabad’s Old City",
     "category": "Heritage",
     "image": "assets/bhadra-fort.svg",
     "alt": "Illustration of Bhadra Fort Ahmedabad",
-    "description": "Explore the connection between Bhadra Fort, Teen Darwaza and Ahmedabad\u2019s historic centre with a practical, respectful walking approach.",
+    "description": "Explore the connection between Bhadra Fort, Teen Darwaza and Ahmedabad’s historic centre with a practical, respectful walking approach.",
     "source": "https://gujarattourism.com/central-zone/ahmedabad/bhadra-fort.html",
     "source_name": "Gujarat Tourism",
     "sections": [
       [
         "A starting point for understanding the city",
-        "Bhadra Fort connects a landmark visit with the story of Ahmedabad\u2019s formation. Gujarat Tourism identifies it as a fort built by Ahmed Shah in 1411. Its account also describes the former royal square between the fort and Teen Darwaza. This makes the area a useful starting point for thinking about how gates, civic spaces and everyday activity fit together in the historic city."
+        "Bhadra Fort connects a landmark visit with the story of Ahmedabad’s formation. Gujarat Tourism identifies it as a fort built by Ahmed Shah in 1411. Its account also describes the former royal square between the fort and Teen Darwaza. This makes the area a useful starting point for thinking about how gates, civic spaces and everyday activity fit together in the historic city."
       ],
       [
         "Read the surroundings as well as the monument",
@@ -149,13 +386,13 @@
     "category": "Vocal for Local",
     "image": "assets/logo.png",
     "alt": "Beyond Soch logo representing local stories and homegrown ideas",
-    "description": "Support Ahmedabad\u2019s local businesses through thoughtful purchases, useful recommendations and honest creator collaborations.",
+    "description": "Support Ahmedabad’s local businesses through thoughtful purchases, useful recommendations and honest creator collaborations.",
     "source": null,
     "source_name": null,
     "sections": [
       [
         "Start with a specific need",
-        "Supporting local becomes easier when it connects with something you already need: a gift, an outfit, a meal, a repair or a home item. Start by looking for a relevant Ahmedabad business rather than buying something simply because it carries a local label. Ask who makes the product, where the business operates and what help is available after purchase. A good match between your needs and the seller\u2019s work is more sustainable than a one-off gesture."
+        "Supporting local becomes easier when it connects with something you already need: a gift, an outfit, a meal, a repair or a home item. Start by looking for a relevant Ahmedabad business rather than buying something simply because it carries a local label. Ask who makes the product, where the business operates and what help is available after purchase. A good match between your needs and the seller’s work is more sustainable than a one-off gesture."
       ],
       [
         "Ask questions that help you decide",
@@ -163,11 +400,11 @@
       ],
       [
         "Recommend with useful detail",
-        "A recommendation can be valuable even when you are not buying again immediately. Share what you purchased, when you purchased it and what made the experience useful. Keep your review limited to what you actually know. If you received a product free or as part of a collaboration, disclose that relationship. Include the business\u2019s correct contact details with permission, and avoid publishing private phone numbers obtained through a personal conversation."
+        "A recommendation can be valuable even when you are not buying again immediately. Share what you purchased, when you purchased it and what made the experience useful. Keep your review limited to what you actually know. If you received a product free or as part of a collaboration, disclose that relationship. Include the business’s correct contact details with permission, and avoid publishing private phone numbers obtained through a personal conversation."
       ],
       [
         "Support without spending",
-        "You can help by correcting a broken business link, sharing an accurate public contact page or giving constructive feedback when it is requested. Ask permission before reposting a maker\u2019s photographs or videos. If you introduce a friend to a business, explain why it might suit their needs rather than making a guarantee about quality. Small, accurate actions are often more useful than a generic message telling everyone to buy immediately."
+        "You can help by correcting a broken business link, sharing an accurate public contact page or giving constructive feedback when it is requested. Ask permission before reposting a maker’s photographs or videos. If you introduce a friend to a business, explain why it might suit their needs rather than making a guarantee about quality. Small, accurate actions are often more useful than a generic message telling everyone to buy immediately."
       ],
       [
         "Make creator collaborations honest",
