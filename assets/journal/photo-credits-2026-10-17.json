@@ -1,0 +1,70 @@
+{
+  "checked": "2026-10-17",
+  "changes": "Resized to fit 1200 × 1000 pixels without enlargement and re-encoded as WebP. No scene elements changed. Each image retains its listed licence.",
+  "images": [
+    {
+      "slug": "adalaj-stepwell",
+      "title": "Adalaj stepwell 03.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Adalaj_stepwell_03.jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Adalaj_stepwell_03.jpg",
+      "author": "Naman",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "date": "2016-06-25 19:42:53",
+      "description": "Adalaj Stepwell (Gujarati: અડાલજની વાવ, Hindi: अडालज बावड़ी or Hindi: अडालज बावली, Marathi: अडालज बारव) is a stunning example of Indo-Islam fusion architecture work. It was built by Muslim ruler King Mehmud Begada for the Hindu queen Rani Roopba.[1] It is a unique 'water storage building' in the village of Adalaj, close to Ahmedabad town in Gandhinagar district in the Indian state of Gujarat. The stepwell was built in 1499 by Muslim king Mohammed Begda for Queen Rani Roopba, wife of Veer Singh, the Vaghela chieftain. The step well or 'Vav', as it is called in Gujarati, is intricately carved and is five stories deep. Such step wells were once integral to the semi-arid regions of Gujarat, as they provided water for drinking, washing and bathing. These wells were also venues for colourful festivals and sacred rituals.",
+      "download_bytes": 2315629,
+      "image": "assets/journal/adalaj-stepwell.webp",
+      "width": 1000,
+      "height": 1000,
+      "bytes": 100508
+    },
+    {
+      "slug": "calico-museum",
+      "title": "Ahmedabad-Calico Museum of Textiles.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Ahmedabad-Calico_Museum_of_Textiles.jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/0/09/Ahmedabad-Calico_Museum_of_Textiles.jpg",
+      "author": "新しい年に向けて",
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "date": "2025-10-21 09:58:58",
+      "description": "Ahmedabad-Calico Museum of Textiles",
+      "download_bytes": 5112751,
+      "image": "assets/journal/calico-museum.webp",
+      "width": 750,
+      "height": 1000,
+      "bytes": 175646
+    },
+    {
+      "slug": "gujarati-thali",
+      "title": "The Gujarati Thali.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:The_Gujarati_Thali.jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/The_Gujarati_Thali.jpg",
+      "author": "mihirs2007",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "date": "2015-05-24",
+      "description": "click is of a Gujarati thali/meal! It consists of roti (indian bread) Puri (a type of deep fried Indian bread) 4 vegetables 2 curries &amp; 2 very tasty Sweets [ Alphonso mango rass (a kind of thick juice) &amp; gulabjamun ] &amp; after You are done with the eating part one gets a treat of cold refreshing drink, the mint chas (buttermilk)!",
+      "download_bytes": 166825,
+      "image": "assets/journal/gujarati-thali.webp",
+      "width": 640,
+      "height": 640,
+      "bytes": 92250
+    },
+    {
+      "slug": "garba-gujarat",
+      "title": "Garba (dance).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Garba_(dance).jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/3/39/Garba_%28dance%29.jpg",
+      "author": "AKS.9955",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "date": "2014-09-27 23:34:51",
+      "description": "A couple performing Garba (dance) in Vadodara, Gujarat during the festival of Navratri.",
+      "download_bytes": 2617598,
+      "image": "assets/journal/garba-gujarat.webp",
+      "width": 638,
+      "height": 1000,
+      "bytes": 118286
+    }
+  ]
+}
