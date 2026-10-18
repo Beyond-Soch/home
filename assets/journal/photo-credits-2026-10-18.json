@@ -1,0 +1,70 @@
+{
+  "checked": "2026-10-18",
+  "changes": "Resized to fit 1200 × 1000 pixels without enlargement and re-encoded as WebP. No scene elements changed. Each optimized image retains its listed licence.",
+  "images": [
+    {
+      "slug": "sarkhej-roza",
+      "title": "Sarkej Roza View.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Sarkej_Roza_View.jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Sarkej_Roza_View.jpg",
+      "author": "JaySuthar97",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "date": "2017-10-08 08:20:51",
+      "description": "Sarkhej Roza comprises one of the most elegant and unique architectural complexes of Ahmedabad. In its architecture, Sarkhej Roza is an example of the early Islamic architectural culture of the region, which fused Islamic stylistic influences from Persia with indigenous Hindu and Jain features to form a composite “Indo-Saracenic” architectural style. The architectural style of Sarkhej Roza is a precursor to the Mughal period in a true amalgamation of Hindu, Jain and Islamic styles. Hindu craftsmanship and construction know-how was overlaid on Islamic sense of geometry and scale. The Roza Complex at Sarkhej was built at the advent of Sultanate era.",
+      "download_bytes": 2046370,
+      "image": "assets/journal/sarkhej-roza.webp",
+      "width": 1200,
+      "height": 800,
+      "bytes": 128976
+    },
+    {
+      "slug": "vechaar-utensils-museum",
+      "title": "Vechaar Utensils Museum Ahmedabad.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Vechaar_Utensils_Museum_Ahmedabad.jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/8/80/Vechaar_Utensils_Museum_Ahmedabad.jpg",
+      "author": "KHC Khushtar Heritage",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "date": "2023-04-09 21:15:53",
+      "description": "Vechaar Utensils Museum Ahmedabad",
+      "download_bytes": 3361946,
+      "image": "assets/journal/vechaar-utensils-museum.webp",
+      "width": 750,
+      "height": 1000,
+      "bytes": 52028
+    },
+    {
+      "slug": "thepla",
+      "title": "Thepla 4.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Thepla_4.jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Thepla_4.jpg",
+      "author": "Yakshitha",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "date": "27 July 2024 (according to Exif data)",
+      "description": "Thepla is a soft Indian flatbread typical of Gujarati cuisine,While extremely popular across Gujarat, it is especially common amongst the Jain community.",
+      "download_bytes": 2457403,
+      "image": "assets/journal/thepla.webp",
+      "width": 1200,
+      "height": 900,
+      "bytes": 101026
+    },
+    {
+      "slug": "bandhani",
+      "title": "Bandhani dyeing method.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Bandhani_dyeing_method.jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Bandhani_dyeing_method.jpg",
+      "author": "Ramkumar Kalyani",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "date": "22 November 2024 (according to Exif data)",
+      "description": "Earliest evidence of Bandhani dates back to Indus Valley civilization suggest that dyeing was done as early as 4000 B.C.",
+      "download_bytes": 2807659,
+      "image": "assets/journal/bandhani.webp",
+      "width": 750,
+      "height": 1000,
+      "bytes": 80682
+    }
+  ]
+}
