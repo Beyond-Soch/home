@@ -1,0 +1,70 @@
+{
+  "checked": "2026-10-20",
+  "changes": "Resized to fit 1200 × 1000 pixels without enlargement and re-encoded as WebP. No scene elements changed. Each optimized image retains its listed licence.",
+  "images": [
+    {
+      "slug": "rani-sipri-mosque",
+      "title": "Rani Sipri's Mosque at Ahmedabad. Gujarat - India.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Rani_Sipri%27s_Mosque_at_Ahmedabad._Gujarat_-_India.jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Rani_Sipri%27s_Mosque_at_Ahmedabad._Gujarat_-_India.jpg",
+      "author": "Shahabuddin Shaikh",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "date": "2017-10-23 16:50:47",
+      "description": "This mosque also called as Masjid e Nagina, (Jewel of Mosque) This Mosque was commissioned in 1514 by queen Sipri, the wife of Mahmood Begada a Sultan who ruled Gujarat, this mosque is famous for intrigate carvings on it's walls.",
+      "download_bytes": 7799779,
+      "image": "assets/journal/rani-sipri-mosque.webp",
+      "width": 750,
+      "height": 1000,
+      "bytes": 113850
+    },
+    {
+      "slug": "gujarat-science-city",
+      "title": "Gujarat Science City Entry.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Gujarat_Science_City_Entry.jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Gujarat_Science_City_Entry.jpg",
+      "author": "Nizil Shah",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "date": "13 November 2022 (according to Exif data)",
+      "description": "Gujarat Science City Entry",
+      "download_bytes": 10540002,
+      "image": "assets/journal/gujarat-science-city.webp",
+      "width": 1200,
+      "height": 900,
+      "bytes": 240918
+    },
+    {
+      "slug": "handvo",
+      "title": "Handvo.JPG",
+      "source": "https://commons.wikimedia.org/wiki/File:Handvo.JPG",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Handvo.JPG",
+      "author": "Noopur28",
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "date": "2012-05-08",
+      "description": "This is an image of a Gujarati dish called Handvo",
+      "download_bytes": 127294,
+      "image": "assets/journal/handvo.webp",
+      "width": 640,
+      "height": 480,
+      "bytes": 56464
+    },
+    {
+      "slug": "patola-loom",
+      "title": "Loom to weave patola.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Loom_to_weave_patola.jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/6/61/Loom_to_weave_patola.jpg",
+      "author": "Bernard Gagnon",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "date": "2013-11-29",
+      "description": "A loom using to weave patolas, Patan, India",
+      "download_bytes": 4749417,
+      "image": "assets/journal/patola-loom.webp",
+      "width": 1200,
+      "height": 800,
+      "bytes": 169374
+    }
+  ]
+}
