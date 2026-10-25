@@ -1,0 +1,75 @@
+{
+  "checked": "2026-10-25",
+  "changes": "Three photographs were resized to fit 1200 × 1000 pixels without enlargement and re-encoded as WebP. No scene elements changed. Each optimized image retains its listed licence. Two SVGs are clearly labelled original Beyond Soch editorial illustrations.",
+  "images": [
+    {
+      "slug": "teen-darwaza",
+      "title": "Teen-Darwaza.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Teen-Darwaza.jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Teen-Darwaza.jpg",
+      "original_suffix": ".jpg",
+      "author": "No machine-readable author provided. Nichalp assumed (based on copyright claims).",
+      "license": "CC BY-SA 2.5",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.5",
+      "date": "2006-01-28",
+      "description": "Teen Darwaza is one of many gateways of the Ahmedabad city, Gujarat. It was established in the year 1421 A.D. by Sultan Ahmed Shah (b. Muhammad b. Muzaffar, ruled 1411–1442 AD). Ahmedabad is named after him, as he is credited with establishing a Sultanate and founding this city for his capital. \nThe Teen Darwaza (literally, three gates or doors) gateway at Ahmedabad has three arched gates. It is located adjacent to Bhadra Fort in Ahmedabad. A few other gateways in Ahmedabad too have three gates, but they are referred by other names. These gateways are Archaeological Survey of India protected sites.\nThe intricately carved darwaza was used by Mughal emperor, Jahangir and his wife Noor Jahan to watch the processions from the place to Jama Masjid. This grand gateway was also used as an entrance to Royal Square at Bhadra Fort. The darwaza served as a witness ground to watch processions and religious ceremonies that took place at the huge ground between the gate and the fort of Bhadra.\nGujarati architectural designs intricately design the walls and pillars at teen darwaza. The ornately carved doors illustrate Islamic architecture in India, dating back to the time of the Ahmed Shah Sultans of medieval times.\n\nIts intricately carved windows have beautiful jali or mesh work that is a feature of all buildings of the period in Ahmedabad. Each of its five semi-circular windows is different from the other. The central one has a Tree of Life with snakes draped around five palm trees. This is being used as the symbol of the Gujarat Government.",
+      "download_bytes": 1819112,
+      "original_width": 2592,
+      "original_height": 1952,
+      "width": 1200,
+      "height": 904,
+      "optimized_bytes": 112858,
+      "path": "assets/journal/teen-darwaza.webp"
+    },
+    {
+      "slug": "rani-no-haziro",
+      "title": "Rani No Hajiro-Ahmedabad-Gujrat-DSC 0010.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Rani_No_Hajiro-Ahmedabad-Gujrat-DSC_0010.jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Rani_No_Hajiro-Ahmedabad-Gujrat-DSC_0010.jpg",
+      "original_suffix": ".jpg",
+      "author": "Dey.sandip",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "date": "2017-12-21 16:45:29",
+      "description": "Colorful covers adorn the tombs of queens at Rani No Hajiro in old Ahmedabad. These were the queens of Sultan Ahmed Shah I. The tomb complex is located near Manek Chowk in the midst of a bustling market that sells women's clothing and other things. The complex is popular with local children who play amidst the tombs and fly kites sometimes. The tombs are part of the culture and heritage of Ahmedabad and represent a slice of history of the royal family.",
+      "download_bytes": 9371316,
+      "original_width": 4288,
+      "original_height": 2848,
+      "width": 1200,
+      "height": 797,
+      "optimized_bytes": 207976,
+      "path": "assets/journal/rani-no-haziro.webp"
+    },
+    {
+      "slug": "dal-dhokli",
+      "title": "Dal dhokli.JPG",
+      "source": "https://commons.wikimedia.org/wiki/File:Dal_dhokli.JPG",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Dal_dhokli.JPG",
+      "original_suffix": ".jpg",
+      "author": "Kanikatwl",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "date": "1899-11-30",
+      "description": "traditional gujarati dish served with pickle and papad",
+      "download_bytes": 3880117,
+      "original_width": 4608,
+      "original_height": 3456,
+      "width": 1200,
+      "height": 900,
+      "optimized_bytes": 94836,
+      "path": "assets/journal/dal-dhokli.webp"
+    }
+  ],
+  "illustrations": [
+    {
+      "path": "assets/journal/tangaliya-weaving-illustration.svg",
+      "credit": "Beyond Soch Editorial",
+      "label": "Editorial illustration; not a documentary photograph."
+    },
+    {
+      "path": "assets/journal/whatsapp-catalog-illustration.svg",
+      "credit": "Beyond Soch Editorial",
+      "label": "Editorial illustration; not an app screenshot or real business account."
+    }
+  ]
+}
