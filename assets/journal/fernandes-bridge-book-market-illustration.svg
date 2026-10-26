@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="760" viewBox="0 0 1200 760" role="img" aria-labelledby="title desc">
+  <title id="title">Fernandes Bridge book market editorial illustration</title><desc id="desc">A stylised bridge level above book stalls and shelves in Ahmedabad's cream and dark-brown palette.</desc>
+  <rect width="1200" height="760" fill="#eddec5"/><circle cx="1040" cy="100" r="170" fill="#d98b54" opacity=".35"/>
+  <path d="M0 165h1200v150H0z" fill="#77402d"/><path d="M0 315h1200" stroke="#4a2a1d" stroke-width="18"/><path d="M65 165v150M230 165v150M395 165v150M560 165v150M725 165v150M890 165v150M1055 165v150" stroke="#edc897" stroke-width="9"/>
+  <g fill="#fff5df" stroke="#4a2a1d" stroke-width="8"><path d="M130 365h390v270H130z"/><path d="M680 365h390v270H680z"/></g>
+  <g stroke="#4a2a1d" stroke-width="7"><path d="M155 430h340M155 510h340M155 590h340M705 430h340M705 510h340M705 590h340"/></g>
+  <g fill="#a9482b"><rect x="170" y="382" width="34" height="48"/><rect x="212" y="394" width="32" height="36"/><rect x="252" y="372" width="40" height="58"/><rect x="300" y="388" width="35" height="42"/><rect x="715" y="378" width="36" height="52"/><rect x="760" y="391" width="31" height="39"/><rect x="800" y="370" width="40" height="60"/><rect x="850" y="384" width="36" height="46"/></g>
+  <text x="600" y="95" text-anchor="middle" fill="#4a2a1d" font-family="Georgia,serif" font-size="50" font-weight="700">BOOKS BELOW THE BRIDGE</text><text x="600" y="705" text-anchor="middle" fill="#4a2a1d" font-family="Arial,sans-serif" font-size="22" letter-spacing="3">EDITORIAL ILLUSTRATION · NOT A MAP OR DOCUMENTARY PHOTO</text>
+</svg>

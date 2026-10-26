@@ -1,0 +1,75 @@
+{
+  "checked": "2026-10-26",
+  "changes": "Three photographs were resized to fit 1200 × 1000 pixels without enlargement and re-encoded as WebP. No scene elements changed. Each optimized image retains its listed licence. Two SVGs are clearly labelled original Beyond Soch editorial illustrations.",
+  "images": [
+    {
+      "slug": "badshah-no-haziro",
+      "title": "Badshah no Haziro - 1.JPG",
+      "source": "https://commons.wikimedia.org/wiki/File:Badshah_no_Haziro_-_1.JPG",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Badshah_no_Haziro_-_1.JPG",
+      "original_suffix": ".jpg",
+      "author": "Aksi great, Dipan Shukla",
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "date": "2007-12-24",
+      "description": "Photos of Ahmedabad's Walled City taken during the Heritage Walk conducted jointly by Ahmedabad Municipal Corporation and the CRUTA Foundation",
+      "download_bytes": 810252,
+      "original_width": 2448,
+      "original_height": 1632,
+      "path": "assets/journal/badshah-no-haziro.webp",
+      "width": 1200,
+      "height": 800,
+      "optimized_bytes": 104410
+    },
+    {
+      "slug": "khichu",
+      "title": "Kheechu (Cooked Rice Flour) Gujarati Food.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Kheechu_(Cooked_Rice_Flour)_Gujarati_Food.jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/8/85/Kheechu_%28Cooked_Rice_Flour%29_Gujarati_Food.jpg",
+      "original_suffix": ".jpg",
+      "author": "Nizil Shah",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "date": "2013-10-06 19:17:55",
+      "description": "Kheechu (Cooked Rice Flour) from Gujarat, India",
+      "download_bytes": 2540976,
+      "original_width": 2448,
+      "original_height": 3264,
+      "path": "assets/journal/khichu.webp",
+      "width": 750,
+      "height": 1000,
+      "optimized_bytes": 37350
+    },
+    {
+      "slug": "sankheda-furniture",
+      "title": "Sankheda furniture in a living room setting.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Sankheda_furniture_in_a_living_room_setting.jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Sankheda_furniture_in_a_living_room_setting.jpg",
+      "original_suffix": ".jpg",
+      "author": "Nvvchar",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "date": "2016-01-27 09:30:35",
+      "description": "Sankheda furniture in a living room setting",
+      "download_bytes": 2920162,
+      "original_width": 4128,
+      "original_height": 2322,
+      "path": "assets/journal/sankheda-furniture.webp",
+      "width": 1200,
+      "height": 675,
+      "optimized_bytes": 85378
+    }
+  ],
+  "illustrations": [
+    {
+      "path": "assets/journal/fernandes-bridge-book-market-illustration.svg",
+      "credit": "Beyond Soch Editorial",
+      "label": "Editorial illustration; not a documentary photograph or map."
+    },
+    {
+      "path": "assets/journal/google-social-links-illustration.svg",
+      "credit": "Beyond Soch Editorial",
+      "label": "Editorial illustration; not a Google screenshot or real business listing."
+    }
+  ]
+}
