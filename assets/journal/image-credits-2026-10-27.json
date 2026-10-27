@@ -1,0 +1,32 @@
+{
+  "checked": "2026-10-27",
+  "changes": "Five original SVG editorial illustrations were created for these articles. They are explicitly labelled and do not claim to be documentary photographs, screenshots or maps.",
+  "images": [],
+  "illustrations": [
+    {
+      "path": "assets/journal/rani-rupmati-mosque-illustration.svg",
+      "credit": "Beyond Soch Editorial",
+      "label": "Editorial illustration; not a documentary photograph, screenshot or map."
+    },
+    {
+      "path": "assets/journal/kochrab-ashram-illustration.svg",
+      "credit": "Beyond Soch Editorial",
+      "label": "Editorial illustration; not a documentary photograph, screenshot or map."
+    },
+    {
+      "path": "assets/journal/lilo-chevdo-illustration.svg",
+      "credit": "Beyond Soch Editorial",
+      "label": "Editorial illustration; not a documentary photograph, screenshot or map."
+    },
+    {
+      "path": "assets/journal/pithora-painting-illustration.svg",
+      "credit": "Beyond Soch Editorial",
+      "label": "Editorial illustration; not a documentary photograph, screenshot or map."
+    },
+    {
+      "path": "assets/journal/whatsapp-workflow-illustration.svg",
+      "credit": "Beyond Soch Editorial",
+      "label": "Editorial illustration; not a documentary photograph, screenshot or map."
+    }
+  ]
+}
